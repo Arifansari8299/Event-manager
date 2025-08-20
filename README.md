@@ -19,5 +19,8 @@ pnpm install
 # 3. Start the dev server ( but it should be inside the apps/web)
 pnpm dev
 
-#4 screenshot are available in root folder (screenshot-event-manager-app.png)
+#4 path of the page 
+http://localhost:3001/events
+
+#5 screenshot are available in root folder (screenshot-event-manager-app.png)
 
