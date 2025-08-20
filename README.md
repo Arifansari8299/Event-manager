@@ -8,7 +8,9 @@ This project is built using the **Next-Forge Turbo template** (Turborepo + pnpm)
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url> my-assignment
+git clone https://github.com/Arifansari8299/Event-manager.git
+
+# if you are not inside the event-manager then change the directory 
 cd event-manager
 
 # 2. Install dependencies
